@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    margin-left: 20%;
+    margin-right: 20%; 
+    background-color: lightblue;
+    text-align:center;
+  }
+  p{
+    font-family: sans-serif;
+    color: darkblue;
+  }
+  h1{
+    font-family: sans-serif;
+    color: darkblue;
+  }
+  div{
+    height: 50px;
+  }
+  img{
+    height:300px
+  }
